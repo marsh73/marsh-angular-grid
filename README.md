@@ -25,7 +25,7 @@ Very Simple Responsive Pinterest Like Masonry Layout. This version requires the 
 
 The Directive was built to display a simple event board to post events with and without images:
 
-<marsh-grid></marsh-grid>
+    <marsh-grid></marsh-grid>
 
 
 This Does not calculate height on items, but rather counts on a point system based on the presence of an image src or not.
